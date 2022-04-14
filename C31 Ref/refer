@@ -1,0 +1,19 @@
+class Matter
+{
+    class Engine
+    {
+        Matter.Engine.update();
+        Engine.update();
+    }
+    class World
+    {
+        Matter.World.add();
+        Matter.World.remove();
+    }
+    class Bodies
+    {
+        Matter.Bodies.rectangle();
+        Matter.Bodies.circle();
+        Matter.Bodies.polygon();
+    }
+}
